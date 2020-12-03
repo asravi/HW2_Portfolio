@@ -1,0 +1,19 @@
+
+body {
+  background-color: teal;
+}
+
+
+p {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  color: rgb(146, 19, 51);
+  background-color: rgb(211, 164, 102);
+}
+
+h1 {
+  font-size: medium;
+  text-align: center;
+}
+
+
+
